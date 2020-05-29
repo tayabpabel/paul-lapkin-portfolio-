@@ -1,0 +1,1 @@
+var mixer=mixitup(".grid-portfolio-container");function openMenu(){document.getElementById("navbar").style.height="100%"}function closeMenu(){document.getElementById("navbar").style.height="0%"}$(function(){$.scrollify({section:".scrollify",setHeights:!1,updateHash:!1})});
